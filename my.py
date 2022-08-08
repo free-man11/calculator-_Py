@@ -23,4 +23,4 @@ for num in range(lower, upper + 1):
             prime = prime+1
 
 print("sum of prime numbers", sum)
-print("average of prime is",sum/num)
+print("average of prime is",sum/prime)
