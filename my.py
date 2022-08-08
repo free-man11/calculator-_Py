@@ -13,4 +13,3 @@ for i in range(2, num):
         sum = sum + i
 
 print("Sum of prime number is", sum)
-
